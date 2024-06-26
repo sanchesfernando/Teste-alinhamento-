@@ -1,0 +1,27 @@
+body{
+
+font-family:'Courier New', Courier, monospace; 
+font-size: 80px;
+background-color: brown;
+
+}
+
+
+.cabecalho{
+
+background-color: aqua;
+font-style:italic;
+font-size:100px;
+
+}
+
+.objeto{
+
+background-color: aqua;
+display:flex;
+justify-content:center;
+
+
+
+
+}
